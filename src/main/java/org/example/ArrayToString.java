@@ -8,4 +8,9 @@
 package org.example;
 
 public class ArrayToString {
+    public static void main(String[] args) {
+        //create the array
+        int[] arrays = {111, 222, 333, 444, 555, 666, 777, 888, 999};
+
+    }
 }
